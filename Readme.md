@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [#100DaysOfCode](https://github.com/Priyanshudash/100Days-of-Code)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development & WEB DEVELOPER**
 
-- 💬 Ask me about **Python, Java, C, Android Studio, MySQL**
+- 💬 Ask me about **HTML,CSS,JAVA-SCRIPT,REACT JS,EXPRESS JS,JQUERRY,ANGULAR JS,FIREBASE,BOOTSTRAP, Java, C, Android Studio,**
 
-- 📫 How to reach me **siddharthabhatt2345@gmail.com**
+- 📫 How to reach me **priyanshudashofficial@gmail.com**
 
 - ⚡ Fun fact **I am a gamer too. If you are looking for a gaming buddy👀**
 
