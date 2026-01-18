@@ -1,33 +1,107 @@
-<h1 align="center">Hi<img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47h725kwv0sspzozkw09vmylceczlowrmxd1pljclb&rid=giphy.gif&ct=s" width="30px" height="30px">, I'm Priyasnhu Dash aka 0xgabbar</h1>
-<h3 align="center">Crafting dynamic digital experiences with Web3 technology - bridging the gap between creativity and functionality. <img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></h3>
+<h1 align="center">Hi, I'm Priyanshu Dash 👋</h1>
+<h3 align="center">
+Full Stack & Web3 Developer | Smart Contracts | Scalable Web Apps
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1100&lines=WebDev+BlockChain+SmartContract;+Node.js+Express.js+NExt.js+React.js+Firebase+Front-End+Developer+)](https://git.io/typing-svg)
+<p align="center">
+Building reliable web applications and decentralized systems with a focus on performance, security, and clean architecture.
+</p>
 
-# 💫 About Me:
-🔭 I’m currently working on Web3 Development<br>👯 I’m looking to collaborate on web development as well as blockchain development <br>🤝 I’m looking for help with back-end and web3.0<br>🌱 I’m currently learning ReactJs, Solidity <br>⚡ Fun fact I am a student
-
-
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](ARBITRAGE pd#9991)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-dash-777649214/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Priyanshu__Dash) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshudash589&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshudash589&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudash589&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/priyanshu-dash-777649214/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/Priyanshu__Dash">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+</a>
+<a href="mailto:priyanshudashofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=priyanshudash589&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
+- 🎓 Final-year **B.Tech student (Big Data Analytics)**  
+- 💻 **Full Stack Developer** with strong backend fundamentals  
+- ⛓️ Building **Web3 dApps & Smart Contracts**
+- 🧠 Interested in **system design, scalability, and developer tooling**
+- 🏆 Hackathon winner with production-ready project experience
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧩 What I’m Currently Working On
+
+- Web3 dApps on **Ethereum & Core DAO**
+- Smart Contracts using **Solidity + Hardhat**
+- Full Stack apps using **React / Next.js + Node.js**
+- Improving **backend architecture & database design**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+
+### Web3 & Dev Tools
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=flat)
+![Ethers](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+
+---
+
+## 📌 Featured Projects
+
+- **Decentralized Voting System**  
+  Smart contracts + frontend integration using Solidity, Hardhat, ethers.js, and Next.js
+
+- **Token Swap DApp**  
+  ERC20 token exchange with secure contract logic and clean UI
+
+- **Full Stack Web Apps**  
+  REST APIs, authentication, database design, and scalable backend services
+
+*(More projects in pinned repositories 👇)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshudash589&show_icons=true&theme=dark" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshudash589&theme=dark" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshudash589&layout=compact&theme=dark"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+If you're interested in:
+- Web3 development  
+- Full Stack engineering  
+- Hackathons, collaborations, or DevRel opportunities  
+
+📩 **Reach out — always happy to build and learn together.**
